@@ -78,8 +78,8 @@ In two terminals:
       npm start
       ```
 
- - **For frontend**:
-        ```bash
+ - **For frontend:**
+      ```bash
       cd client
       npm start
       ```
