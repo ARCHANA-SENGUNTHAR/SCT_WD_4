@@ -1,0 +1,18 @@
+body, html, .app-container {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 60px; /* navbar height */
+  padding-bottom: 40px; /* footer height */
+  overflow-y: auto;
+}
