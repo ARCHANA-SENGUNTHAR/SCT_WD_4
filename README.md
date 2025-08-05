@@ -74,13 +74,13 @@ In two terminals:
 
  - **For backend:**
       ```bash
-      cd server
+      cd backend
       npm start
       ```
 
  - **For frontend:**
       ```bash
-      cd client
+      cd frontend
       npm start
       ```
 ---
