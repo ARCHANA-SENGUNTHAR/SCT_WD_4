@@ -79,12 +79,10 @@ In two terminals:
       ```
 
  - **For frontend**:
-       ```bash
+        ```bash
       cd client
-      npm start 
+      npm start
       ```
-     Visit: http://localhost:3000
-
 ---
 
 ## 💡 Learnings
